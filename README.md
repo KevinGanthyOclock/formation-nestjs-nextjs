@@ -4,7 +4,7 @@
 
 ⏱️ 7 jours
 
-**Objectifs :**
+**Objectifs pédagogiques :**
 
 - Revoir toutes les bases avec les technologies classiques full-stack JS
 - Comprendre l’architecture logicielle avec un miniprojet complet
@@ -16,7 +16,7 @@
 
 ⏱️ 6 jours
 
-**Objectifs :**
+**Objectifs pédagogiques :**
 
 - Premiers pas sur le framework NextJS
 - Premiers pas avec avec le framework Next.js
@@ -30,7 +30,7 @@
 
 ⏱️ 15 jours
 
-**Objectifs :**
+**Objectifs pédagogiques :**
 
 - Créer un back-end complet avec le framework NextJS
 - Créer un front-end complet avec le framework Next.js
@@ -41,6 +41,6 @@
 
 ⏱️ 2 jours
 
-**Objectifs :**
+**Objectifs pédagogiques :**
 
 - Bonus en fonction du niveau, budget ou besoins
